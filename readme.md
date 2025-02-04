@@ -1,0 +1,1 @@
+In this Repo I have learned about how to use websocket in spring boot and implemented that in a simple way.
